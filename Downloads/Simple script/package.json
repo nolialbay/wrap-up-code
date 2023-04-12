@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "csv-parse": "^5.3.6",
+    "fs": "^0.0.1-security",
+    "purecloud-platform-client-v2": "^160.1.0",
+    "synchronized-promise": "^0.3.1"
+  }
+}
